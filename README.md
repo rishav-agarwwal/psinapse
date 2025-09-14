@@ -1,2 +1,3 @@
 # psinapse
-Binary Playground.Learn while you play.
+Binary Playground.
+Learn while you play.
